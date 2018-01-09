@@ -1,0 +1,25 @@
+{
+  "name": "liri-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anbroyar/liri-node-app.git"
+  },
+  "author": "Anbroyar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anbroyar/liri-node-app/issues"
+  },
+  "homepage": "https://github.com/Anbroyar/liri-node-app#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "node-spotify-api": "^1.0.7",
+    "request": "^2.83.0",
+    "twitter": "^1.7.1"
+  }
+}
