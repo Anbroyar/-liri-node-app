@@ -1,11 +1,11 @@
-# -liri-node-app
+# liri-node-app
 First of all make sure that you have Node.Js installed.
 Run npm install to get all of required packages.
 You will need to provide your own .env file with Twitter and Spotify API keys.
-# Spotify API keys (replace with your key/secret)
+Spotify API keys (replace with your key/secret)
 SPOTIFY_ID=your-spotify-id
 SPOTIFY_SECRET=your-spotify-secret
-# Twitter API keys (replace with your keys/secrets)
+Twitter API keys (replace with your keys/secrets)
 TWITTER_CONSUMER_KEY=your-twitter-consumer-key
 TWITTER_CONSUMER_SECRET=your-twitter-consumer-secret
 TWITTER_ACCESS_TOKEN_KEY=your-access-token-key
